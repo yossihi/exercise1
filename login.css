@@ -1,0 +1,22 @@
+table, th, td {
+    background-color: red;
+    border: 1px solid;
+    border-radius: 4px;
+    text-align: center;
+    align-self: center;
+
+}
+
+dl {
+    background-color: aqua;
+    color: blue;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: aquamarine;
+    text-align: start;
+    color: rgb(6, 6, 6);
+    
+}
